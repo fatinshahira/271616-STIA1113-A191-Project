@@ -2,4 +2,9 @@
 
 # Intoduction
 
-# pseudocode
+# Pseudocode
+
+# Flowchart
+
+# Screenshot of the output
+
