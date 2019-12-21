@@ -10,7 +10,7 @@
        
 # Intoduction
 
-All members in this group complete this assignment by doing their parts. For complete this assignment, we areb using many method such as Next Day Delivery, Same Day Delivery, Prepaid Box And Envelope, Pos Ekspress and so on.
+All members in this group complete this assignment by doing their parts. For complete this assignment, we areb using many method such as Next Day Delivery, Same Day Delivery, Prepaid Box And Envelope, Pos Ekspress and so on. Before
 
 # Pseudocode
 Pseudocode no3   
