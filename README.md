@@ -3,6 +3,137 @@
 # Intoduction
 
 # Pseudocode
+Pseudocode no3   
+
+Declare variable as the following :
+
+int i=0, type, weight
+
+int zone
+
+String reservation
+
+output “customer “ + i
+
+output “Enter your packages type : “
+
+output “1.Envelope S”+” 2.Envelope L”+” 3.Prepaid Box S”+” 4.Prepaid Box M”+”5. Prepaid Box L”
+
+output “Your type is : “
+
+type = scan.nextInt ()
+
+output “enter your item weight (in gram) : “
+
+weight = scan.nextInt ()
+
+output “Price is RM 7.31”
+
+output “Price is RM 10.49”
+
+output “Price is RM 13.78”
+
+output “Price is RM 21.20”
+
+output “Price is RM 31.80”
+
+output “Error input”
+
+output “Item can not over than 10 kg”
+
+output “Do you want to continue? (Yes or No) : “ 
+
+reservation = scan.next()
+
+reservation.equaIsIgnoreCase (“yes”)
+
+Pseudocode No.4
+
+Start
+
+Declare variable as the following :
+
+int i=0, type, weight
+
+String zone
+
+int tebal = 0
+
+String reservation
+
+output “customer “ +i
+
+output “Enter your zone : “
+
+output “1.LG” + “2.LE (C5)” + “LD (B4)” + “4.LK”
+
+output “Your type is : “
+
+type = scan.nextInt ()
+
+output “enter your item weight (in g) : “
+
+weight = scan.nextIn ()
+
+output “enter your item thickness (in mm) : “
+
+tebal = scan.nextInt ()
+
+output “Price is RM 3.18”
+
+output “Price is RM 3.71”
+
+output “Price is RM 4.77”
+
+output “Price is RM 7.42”
+
+output “Thickness max is only 25 mm”
+
+output “Price is RM 3.18”
+
+output “Price is RM 3.71”
+
+output “Price is RM 4.77”
+
+output “Price is RM 7.42”
+
+output “Thickness max is only 25 mm”
+
+output “Price is RM 3.18”
+
+output “Price is RM 3.71”
+
+output “Price is RM 4.77”
+
+output “Price is RM 7.42”
+
+output “Thickness max is only 25 mm”
+
+output “Price is RM 3.18”
+
+output “Price is RM 3.71”
+
+output “Price is RM 4.77”
+
+output “Price is RM 7.42”
+
+output “Thickness max is only 25 mm”
+
+output “Error input !”
+
+output “Item can not over than 1 kg (1000 g) “
+
+output “Do you want to continue? (Yes or No) : “
+
+reservation = scan.next()
+
+reservation.equaIsIgnoreCase (“yes”)
+
+
+
+
+
+
 
 # Flowchart
 
