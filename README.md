@@ -1,6 +1,16 @@
 # Student Info
+271616 NURUL FATIN SHAHIRA BINTI RAHIM
+ 
+271278 NURUL NADIAH BINTI YUSUF
 
+271501 HUSNA BINTI MOHD JAMIL
+
+271661 NURUL FATIN FARZANA BINTI MOHD RAFIZA
+
+       
 # Intoduction
+
+All members in this group complete this assignment by doing their parts. For complete this assignment, we areb using many method such as Next Day Delivery, Same Day Delivery, Prepaid Box And Envelope, Pos Ekspress and so on.
 
 # Pseudocode
 Pseudocode no3   
