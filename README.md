@@ -362,7 +362,8 @@ reservation.equaIsIgnoreCase (“yes”)
 
 ![Output3](https://user-images.githubusercontent.com/55240830/71404101-a1237380-266c-11ea-91f5-0b89a1b0d7d3.png)
 
-![Output3](https://user-images.githubusercontent.com/55240830/71404101-a1237380-266c-11ea-91f5-0b89a1b0d7d3.png)
+![Output4](https://user-images.githubusercontent.com/55240830/71404124-ab457200-266c-11ea-90b1-cb980cdd9578.png)
+
 
 
 
