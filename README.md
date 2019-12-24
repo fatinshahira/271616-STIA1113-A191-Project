@@ -355,16 +355,16 @@ reservation.equaIsIgnoreCase (“yes”)
 
 # Screenshot of the output
 
+![Output1](https://user-images.githubusercontent.com/55240830/71404023-68839a00-266c-11ea-80c2-3c159c3f2ff7.png)
 
-![output 1 nextdelivery](https://user-images.githubusercontent.com/55240830/71289714-bcf6f300-23a8-11ea-8e4d-a7bfd4047ad7.png)
 
-![output 2 nextdelivery](https://user-images.githubusercontent.com/55240830/71289739-d861fe00-23a8-11ea-85c7-b68965d7d5dc.png)
+![Output2](https://user-images.githubusercontent.com/55240830/71404089-9668de80-266c-11ea-9a2d-833ba864a43a.png)
 
-![output 4](https://user-images.githubusercontent.com/55240830/71289779-f2034580-23a8-11ea-8e1a-413ff610cac2.png)
+![Output3](https://user-images.githubusercontent.com/55240830/71404101-a1237380-266c-11ea-91f5-0b89a1b0d7d3.png)
 
-![output3 nextdelivery c](https://user-images.githubusercontent.com/55240830/71289841-20812080-23a9-11ea-8353-376289942dbd.png)
+![Output3](https://user-images.githubusercontent.com/55240830/71404101-a1237380-266c-11ea-91f5-0b89a1b0d7d3.png)
 
-![output5](https://user-images.githubusercontent.com/55240830/71289849-2971f200-23a9-11ea-87ba-da5da0605cfa.png)
+
 
 
 
