@@ -353,6 +353,27 @@ reservation.equaIsIgnoreCase (“yes”)
 
 # Flowchart
 
+![flowchart 1](https://user-images.githubusercontent.com/55240830/71552192-19a27f80-2a33-11ea-9844-f58b0eed2bb2.jpg)
+
+![flowchart2](https://user-images.githubusercontent.com/55240830/71552195-24f5ab00-2a33-11ea-8e9b-ab51b83651a4.jpg)
+
+![flowchart3](https://user-images.githubusercontent.com/55240830/71552198-2921c880-2a33-11ea-93cf-a23a7eb984f3.jpg)
+
+![flowchart4](https://user-images.githubusercontent.com/55240830/71552199-2cb54f80-2a33-11ea-81e0-bcf5273141e1.jpg)
+
+![flowchart5](https://user-images.githubusercontent.com/55240830/71552200-3048d680-2a33-11ea-9f7f-2098193c7e2a.jpg)
+
+![flowchart6](https://user-images.githubusercontent.com/55240830/71552203-33dc5d80-2a33-11ea-96e4-dfd7236e44de.jpg)
+
+![flowchart7](https://user-images.githubusercontent.com/55240830/71552204-3ccd2f00-2a33-11ea-9226-734cd989168d.jpg)
+
+![flowchart8](https://user-images.githubusercontent.com/55240830/71552205-40f94c80-2a33-11ea-94ee-f5bfd27fc48e.jpg)
+
+![flowchart9](https://user-images.githubusercontent.com/55240830/71552206-448cd380-2a33-11ea-9b23-f148e6cf8624.jpg)
+
+
+
+
 # Screenshot of the output
 
 ![Output1](https://user-images.githubusercontent.com/55240830/71404023-68839a00-266c-11ea-80c2-3c159c3f2ff7.png)
